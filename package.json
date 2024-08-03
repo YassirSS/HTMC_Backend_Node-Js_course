@@ -1,0 +1,14 @@
+{
+  "name": "hrserver",
+  "version": "1.0.0",
+  "description": "crud operation for hr server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Yasir Bashihab",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
